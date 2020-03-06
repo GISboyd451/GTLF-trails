@@ -1,0 +1,6 @@
+# 02/20/2020 GTLF Uniques for Trails in NOC PUB
+# 'DSTRBTE_EXTRNL_CODE' :: [None, u' ', u'N/A', u'NO', u'No', u'UNK', u'YES', u'Yes']
+# 'PLAN_ROUTE_DSGNTN_AUTH' :: [None, u' ', u'BLM', u'BLM Road', u'Non-BLM', u'Not Assess', u'Unknown']
+# 'PLAN_ASSET_CLASS' :: [None, u'<Null>', u'Linear Disturbance', u'NA', u'Non-BLM', u'Not Assessed', u'Null', u'Primitive Route - WSA/LWC', u'Primitive route - WSA/LWC', u'RD', u'RDP', u'RDP-A', u'RDPE', u'ROAD', u'Road', u'SPRD', u'TNM', u'TNMW', u'Temporary Route', u'Transportation System - Primitive', u'Transportation System - Primitive Road', u'Transportation System - Road', u'Transportation System - Temporary Route', u'Transportation System - Trail', u'Transportation System \u2013 Primitive Road', u'Transportation System \u2013 Road', u'Transportation System \u2013 Trail']
+# 'PLAN_MODE_TRNSPRT' :: [None, u' ', u'4WD', u'4WDX', u'<Null>', u'ATV', u'EQ', u'H', u'Motorized', u'NA', u'NE', u'NES', u'Non-Mechanized', u'Non-Motorized', u'Null', u'P', u'UNKNOWN', u'Unknown', u'WB-50']
+# 'PLAN_OHV_ROUTE_DSGNTN' :: [None, u' ', u'<Nuill>', u'<Null>', u'Closed', u'Limited', u'Non-BLM', u'Null', u'OPEN', u'Open', u'Unknown']
